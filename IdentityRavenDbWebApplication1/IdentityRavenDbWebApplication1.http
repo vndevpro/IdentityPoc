@@ -1,0 +1,6 @@
+@IdentityRavenDbWebApplication1_HostAddress = http://localhost:5081
+
+GET {{IdentityRavenDbWebApplication1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
